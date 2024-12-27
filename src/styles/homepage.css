@@ -1,0 +1,61 @@
+.flex-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 3rem;
+}
+
+.flex-box .increes-btn {
+    padding: 10px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    background-color: green;
+    color: white;
+    text-align: center;
+    border: 1px solid green;
+    
+}
+
+
+.flex-box .decress-btn {
+    padding: 10px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    background-color: red;
+    color: white;
+    text-align: center;
+    border: 1px solid red;
+    
+}
+
+.flex-box .reset-btn{
+    padding: 10px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    background-color: cadetblue;
+    color: white;
+    text-align: center;
+    border: 1px solid cadetblue;
+}
+
+.green {
+    color: green;
+
+}
+
+.black {
+    color: brown ;
+}
+
+.red {
+     color: red;
+}
